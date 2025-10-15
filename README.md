@@ -22,5 +22,6 @@ Sample Superstore Dataset
 Data Modeling & DAX for calculated measures  
 Filters & Slicers for interactivity
 
-Snapshot of the project
+Snapshot of the project-
+See how the dashboard looks like- https://github.com/shouryapvbit-1/Services-and-Superstore/blob/main/Snapshot%20of%20Dashboard.png
 
